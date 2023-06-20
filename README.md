@@ -175,5 +175,5 @@ Lastly, we need to do some clean up. We need to delete the setup folder in C:\in
 </p>
 
 Next, we will configure roles within Osticket to begin simulating a ticketing environment.
-https://github.com/AaronGuajardo2/Osticket-PostInstall-Config
+https://github.com/AaronGuajardo2/Osticket-PostInstall-Config/blob/main/README.md
 
